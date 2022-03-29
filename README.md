@@ -1,1 +1,1 @@
-# Mines-Crack-Detection-using-deep-learning
+# Mines crack detection using deep learning
